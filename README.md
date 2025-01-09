@@ -10,7 +10,9 @@ Testcontainers の開発元 AtomicJar は 2023年12月に Docker 社に買収さ
 
 本記事は、[testcontainers.com/](testcontainers.com/) にある [Getting Started](https://testcontainers.com/getting-started/) ドキュメントの日本語参考訳です。
 
+各言語の QuickStart をすぐに見てみたい方は以下のドキュメントをご参照ください。
 
+- [Java](./Getting_Started_with_Testcontainers_for_java.md)
 
 ## Testcontainers とは？
 
