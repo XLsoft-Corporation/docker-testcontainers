@@ -2,9 +2,10 @@
 
 [Getting started with Testcontainers for Java](https://testcontainers.com/guides/getting-started-with-testcontainers-for-java/) をやってみましょう。
 
+
 ## システム要件
 
-Visual Studio Code（以下 VS Code）で maven のプロジェクトのテストを行います。以下の環境を用意してください。本ドキュメントの執筆時 2025 年 1 月の最新版を使用しています。
+Visual Studio Code（以下 VS Code）で maven のプロジェクトのテストを行います。以下の環境を用意してください。本ドキュメントの執筆時 2025年 1月の最新版を使用しています。
 
 - **JDK:**  
   [Eclipse Temurin \| Adoptium](https://adoptium.net/temurin/) から最新版をダウンロードし、インストールします。（OpenJDK の実装は VS Code の Extension Pack for Java のドキュメントで紹介されていたので Temurin にしています。）
@@ -44,6 +45,7 @@ OS name: "windows 11", version: "10.0", arch: "amd64", family: "windows"
 fabdb6a30b49f79a7aba0f2ad9df9b399473380f
 x64
 ```
+
 
 ## Maven を使用した Java プロジェクトの作成
 
